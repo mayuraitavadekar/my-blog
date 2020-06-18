@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import "./assets/css/base.css";
 import { Container, Row, Col } from "react-bootstrap";
 import DarkModeToggle from "react-dark-mode-toggle";
@@ -38,6 +38,30 @@ const About = () => {
       return false;
     }
   };
+
+  useEffect(() => {
+    if (localStorage.getItem("darkmode")) {
+      if (
+        localStorage.getItem("darkmode").includes("true") === true ||
+        document.body.style.background === "black"
+      ) {
+        setDarkmode(true);
+        document.body.style.backgroundColor = "black";
+        document.body.style.color = "white";
+      } else if (
+        localStorage.getItem("darkmode").includes("false") === true ||
+        document.body.style.background === "white"
+      ) {
+        setDarkmode(false);
+        document.body.style.background = "white";
+        document.body.style.color = "black";
+      }
+    } else {
+      setDarkmode(false);
+      document.body.style.background = "white";
+      document.body.style.color = "black";
+    }
+  }, []);
 
   return (
     <div>

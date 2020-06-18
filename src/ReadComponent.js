@@ -112,22 +112,26 @@ const ReadComponent = ({ match }) => {
   };
 
   useEffect(() => {
-    if (
-      localStorage.getItem("darkmode").includes("true") ||
-      document.body.style.background === "black"
-    ) {
-      setDarkmode(true);
-      document.body.style.backgroundColor = "black";
-      document.body.style.color = "white";
-      document.getElementsByTagName("hr")[0].style.color = "white";
-    } else if (
-      localStorage.getItem("darkmode").includes("false") === false ||
-      document.body.style.background === "white"
-    ) {
+    if (localStorage.getItem("darkmode")) {
+      if (
+        localStorage.getItem("darkmode").includes("true") === true ||
+        document.body.style.background === "black"
+      ) {
+        setDarkmode(true);
+        document.body.style.backgroundColor = "black";
+        document.body.style.color = "white";
+      } else if (
+        localStorage.getItem("darkmode").includes("false") === true ||
+        document.body.style.background === "white"
+      ) {
+        setDarkmode(false);
+        document.body.style.background = "white";
+        document.body.style.color = "black";
+      }
+    } else {
       setDarkmode(false);
       document.body.style.background = "white";
       document.body.style.color = "black";
-      document.getElementsByTagName("hr")[0].style.color = "black";
     }
 
     fetchPostData(match.params.number);
