@@ -24,12 +24,12 @@ const About = () => {
 
   const preload = () => {
     if (
-      localStorage.getItem("darkmode").includes("true") ||
+      localStorage.getItem("darkmode").includes("true") === true ||
       document.body.style.background === "black"
     )
       return true;
     else if (
-      localStorage.getItem("darkmode").includes("false") === false ||
+      localStorage.getItem("darkmode").includes("false") === true ||
       document.body.style.background === "white"
     )
       return false;
