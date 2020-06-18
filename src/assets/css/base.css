@@ -1,0 +1,98 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap");
+
+h1 {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 700;
+  font-size: 40px;
+}
+
+body {
+  margin: auto;
+  font-family: "Ubuntu", sans-serif;
+}
+
+.main-container {
+  max-width: 600px;
+}
+
+.mdx {
+  padding-left: auto;
+  padding-right: auto;
+}
+
+.main-header {
+  margin-top: 50px;
+}
+
+.main-bio {
+  justify-content: left;
+}
+
+a {
+  color: #f582ba;
+}
+
+.image-col {
+  max-width: 80px;
+}
+
+.short-intro {
+  margin-top: 50px;
+}
+
+.long-intro {
+  margin-top: 50px;
+}
+
+.dots {
+  text-align: center;
+  color: lightgray;
+  margin-top: 50px;
+}
+
+/* all markdown styles */
+
+.mk {
+  margin-top: 60;
+}
+
+.mk .code-block {
+  background: black;
+  color: white;
+  font-family: Consolas, Menlo, Monaco, source-code-pro, Courier New, monospace;
+  font-feature-settings: normal;
+  text-align: left;
+  white-space: pre;
+  word-spacing: normal;
+  word-break: normal;
+  word-wrap: normal;
+  line-height: 1.5;
+  tab-size: 4;
+  hyphens: none;
+}
+
+.mk pre {
+  background-color: #333945;
+  border-radius: 15px;
+  color: white;
+  font-family: Consolas, Menlo, Monaco, source-code-pro, Courier New, monospace;
+  font-feature-settings: normal;
+  text-align: left;
+  white-space: pre;
+  word-spacing: normal;
+  word-break: normal;
+  word-wrap: normal;
+  line-height: 1.5;
+  tab-size: 4;
+  hyphens: none;
+  padding: 15px;
+  z-index: 2;
+}
+
+.mk code {
+  color: white;
+}
+
+.mk div {
+  background-color: black;
+}

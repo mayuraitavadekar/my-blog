@@ -1,0 +1,115 @@
+Hello 👋 <br/>
+Over the last 3 months, I heavily written React Code for my personal projects. I personally used CRA 
+because I needed client side rendering to keep my server and client running seperately. If you want to install react
+on your machine click [here](https://medium.com/@mayur_aitavadekar/installing-react-26aa5671371a) 
+to get instructions.
+
+<br/>
+
+When I started learning react, I was deeply fascinated by working of hooks. As soon as hooks were introduced in 
+[ReactConf'2018](https://reactjs.org/blog/2018/11/13/react-conf-recap.html), they became hugely popular.
+Simply because of following reasons - 
+- More cleaner & understandable code. 
+- Boilerplate decreased dramatically because of introduction of functional components.
+- No more requirement of using 'this' keyword.
+
+<br />
+
+#### State Management - useState() 
+<br/>
+
+Let's write a counter app and see why state management is important. After creating CRA,  open in
+code editor. Let's write a simple App component first.
+
+
+```
+import React, { useState } from "react";
+
+const App = () => {
+  
+  const [countValue, setCountValue] = useState(0);
+
+  const handleClick = () => {
+    setCountValue(countValue + 1);
+  };
+
+  return (
+    <div className="App">
+      <h1>{countValue}</h1>
+      <button onClick={handleClick}>Increment</button>
+    </div>
+  );
+}
+
+export default App;
+
+```
+useState preserves the state of countValue each time 'onClick' happens and when the state of the 
+countValue is changed using 'setCountValue', the DOM rerenders. In class based components, the state must
+be object while in functional components state can be anything.
+
+```
+const [flag, setFlag] = useState(true); // boolean
+
+const [values, setValues] = useState({
+    name: "",
+    email: "", 
+    phone: "",
+}); // object
+
+const [name, setName] = useState(""); // String
+
+const [count, setCount] = useState(0) // Number
+
+```
+
+<br/>
+
+#### Using Effect Hook
+
+In very simple language, Effect hook is used when you want to do something after DOM renders. 
+Following syntax to write effect hooks -
+
+```
+useEffect(() => {
+    
+    // write something
+
+}, [ // put something here ]);
+```
+
+Now in above counter example, let's print something after incrementing 'countValue' each time.
+
+```
+import React, { useState, useEffect } from "react";
+
+const App = () => {
+  
+  const [countValue, setCountValue] = useState(0);
+
+  const handleClick = () => {
+    setCountValue(countValue + 1);
+  };
+
+  useEffect(() => {
+    console.log("countValue incremented to ", countValue);
+  });
+
+  return (
+    <div className="App">
+      <h1>{countValue}</h1>
+      <button onClick={handleClick}>Increment</button>
+    </div>
+  );
+}
+
+export default App;
+```
+You might have noticed the two square brackets: [ ]. Those are used for forced reload. 
+Let me explain. 
+
+UseEffect() will always run after DOM renders. So by default it will run for the first
+time. Now, what if you want to rerender the DOM again? Just create a state varibale. change it's state after certain event occurs, 
+and put it in those [ ] (square bracket).
+
+That's it for this article. Let's keep it short and simple 😊.
