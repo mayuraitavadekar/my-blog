@@ -47,16 +47,20 @@ const ReadComponent = ({ match }) => {
   };
 
   const preload = () => {
-    if (
-      localStorage.getItem("darkmode").includes("true") ||
-      document.body.style.background === "black"
-    )
-      return true;
-    else if (
-      localStorage.getItem("darkmode").includes("false") === false ||
-      document.body.style.background === "white"
-    )
+    if (localStorage.getItem("darkmode")) {
+      if (
+        localStorage.getItem("darkmode").includes("true") === true ||
+        document.body.style.background === "black"
+      )
+        return true;
+      else if (
+        localStorage.getItem("darkmode").includes("false") === true ||
+        document.body.style.background === "white"
+      )
+        return false;
+    } else {
       return false;
+    }
   };
 
   const fetchPostData = (postNumber) => {
