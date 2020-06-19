@@ -18,7 +18,8 @@ const Footer = () => {
             <Link to="/about">About</Link> &bull;{" "}
             <a href="https://github.com/mayuraitavadekar">Github</a> &bull;{" "}
             <a href="https://medium.com/@mayur_aitavadekar">Medium</a> &bull;{" "}
-            <a href="mailto:mayuraitavadekar2690@gmail.com">Email</a>{" "}
+            <a href="mailto:mayuraitavadekar2690@gmail.com">Email</a> &bull;{" "}
+            <Link to="/projects">Projects/Skills</Link>
           </Col>
         </Row>
         <hr />

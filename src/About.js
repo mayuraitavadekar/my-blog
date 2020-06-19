@@ -115,53 +115,48 @@ const About = () => {
                 was good at studies and consistently scored good grades each
                 year. But I was also interested in music, painting, and sports.
                 I started learning harmonium at the age of 12. Today, I play
-                both piano and harmonium. I scored 'A' in elementary grade
-                examinations. I was among the top scorers in mathematics, when I
-                was in school and Engineering.
+                both piano and harmonium, anfd sing. I scored 'A' in elementary
+                grade examination and 'B' on Intermediate. I was among the top
+                scorers in mathematics, when I was in school and Engineering.
                 <br />
                 <br />
-                At the age of 18, I started doing programming. Until then I
-                didn't know what is programming and how a computer works. The
-                first language I learned was 'C' and it was a terrible
-                experience. Eventually, I learned C, C++, Java, Python, and
-                JavaScript, and Dart(a little bit). But I have to admit that my
-                two most favorite programming languages are C++ and JavaScript.
+                At the age of 18, I took admission to Engineering and I started
+                doing programming. Until then I didn't know what is programming
+                and how a computer works. The first language I learned was 'C'
+                and it was a terrible experience. Number of errors in my code
+                were double that of number of lines in the code. Eventually, I
+                learned C, C++, Java, Python, and JavaScript, and Dart(a little
+                bit). But I have to admit that my two most favorite programming
+                languages are C++ and JavaScript.
                 <br />
                 <br />
                 I like to learn about how computer hardware works. 'Structured
                 Computer Organisation' by Andrew Tanenbaum is my favorite book
-                for computer hardware. But I'm not that hardware nerd. I like to
-                work on software. I develop websites, apps. NodeJs is my
-                speciality. Hot topics such as data science, machine learning,
-                and artificial intelligence intrigue me but currently, I try to
-                learn those whenever I get the time. Okay, enough about
-                programming and stuff.
+                for computer hardware. But I like to work on software. I develop
+                websites, apps. NodeJs is my speciality. Hot topics such as data
+                science, machine learning, and artificial intelligence
+                fascinates me but I have not taken deep dive into them.
                 <br />
                 <br />
                 Whenever I get free time, I try to read. I'm deeply intrigued by
                 areas such as Indian mythology, history, space. I mostly read in
-                Marathi and English. In Indian mythology, my favorite books are
-                Yayati, Mrityunjay, Ramayana and Yugandhar. I believe that we
-                can learn most important life lessons from Indian mythology. Few
-                books of Amish and Anand Neelakantan are in my bucket list.
-                Achyut Godble has written a sack of great books. Indian history
-                including some politics fascinates me a lot. I like to watch
-                documentaries on space.
+                Marathi and English. I believe that, we can learn most important
+                life lessons from Indian mythology. Few books of Amish and Anand
+                Neelakantan are in my bucket list. Achyut Godble have written a
+                some amazing books. Indian history including some politics
+                fascinates me a lot.
                 <br />
                 <br />
                 Football is something I started to love since my college days. I
                 love Liverpool FC. This club has given me a lot of beautiful
-                memories. I have to admit that a lot of things have been changed
-                in my life after I started following this club. Of course, when
-                I get free time, I think about football. Nothing can be as
-                special singing 'You will never walk alone' before the match. I
-                have a dream to go to anfield before 2024.
+                memories. Of course, when I get free time, I think about
+                football. Nothing can be as special singing 'You will never walk
+                alone' before the match. Let's see If I can go to Anfield before
+                2024.
                 <br />
                 <br />
-                Next, what do I do, now? I have finished my bachelor's in
-                engineering with a major in computer science. I had applied to
-                some of the universities in the United States for MS in Computer
-                Science and I'm happy that I have admission offers from George
+                Next, what do I do, now? I have finished my bachelor of
+                engineering degree in computer engineering. I got admit George
                 Mason University, California State University. Currently, I am
                 working on my own startup company and handling all technical
                 stuff. So yes, I'm busy.
@@ -173,10 +168,11 @@ const About = () => {
                 </a> and{" "}
                 <a href="https://www.linkedin.com/in/mayur-aitavadekar/">
                   LinkedIn
-                </a>
-                . If you want to read my articles on Medium visit my{" "}
-                <a href="https://medium.com/@mayur_aitavadekar"> Medium</a>. If
-                you want to see my projects and programming work visit my{" "}
+                </a>{" "}
+                or simply drop a mail. Check out my{" "}
+                <a href="https://medium.com/@mayur_aitavadekar"> Medium</a> to
+                read my tech articles. If you want to see my projects and
+                programming work visit my{" "}
                 <a href="https://github.com/mayuraitavadekar">github</a>. Thank
                 you for reading. Happy Coding 🤗
                 <br />
@@ -184,7 +180,7 @@ const About = () => {
                 <br />
                 Mayur ❤️
                 <br />
-                10 June, 2020.
+                15 June, 2020.
               </p>
             </Col>
           </Row>

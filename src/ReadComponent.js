@@ -21,9 +21,9 @@ const ReadComponent = ({ match }) => {
   });
 
   const readTimeFries = () => {
-    if (readtime < 4 && readtime > 0) return "🍟";
-    else if (readTime > 4 && readtime < 6) return "🍟🍟";
-    else return "🍟🍟🍟";
+    if (Number(readtime) <= 6 && Number(readtime) > 0) return "🍟";
+    else if (Number(readTime) > 6 && Number(readtime) <= 15) return "🍟🍟";
+    else if (Number(readtime) > 15) return "🍟🍟🍟";
   };
 
   const { title, tags, date, readtime } = postData;
@@ -160,7 +160,7 @@ const ReadComponent = ({ match }) => {
 
         <hr />
 
-        <Container fluid className="mt-4">
+        <Container fluid className="" style={{ marginTop: "50px" }}>
           <h2 className="post-heading font-weight-bold text-left">{title}</h2>
           <p>
             {date} &bull;{" "}

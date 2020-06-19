@@ -8,8 +8,6 @@ const HomeArticles = () => {
     <div>
       <Container fluid className="mt-4">
         {posts.map((post, index) => {
-          console.log(post);
-
           return (
             <div style={{ marginTop: 30 }} key={index}>
               <Link

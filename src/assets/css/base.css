@@ -50,6 +50,23 @@ a {
   margin-top: 50px;
 }
 
+.skillset {
+  margin-top: 50px;
+}
+
+.hashtag {
+  color: #7cec9f;
+}
+
+.progressbar {
+  border-radius: 0%;
+}
+
+.projectlist {
+  margin-top: 50px;
+  margin-bottom: 80px;
+}
+
 /* all markdown styles */
 
 .mk {
