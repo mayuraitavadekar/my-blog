@@ -6,6 +6,7 @@ import Footer from "./Footer";
 import Bio from "./Bio";
 import HomeArticles from "./HomeArticles";
 import { Link } from "react-router-dom";
+import { Helmet } from "react-helmet";
 
 export default function Home() {
   const [darkmode, setDarkmode] = useState(false);
@@ -67,6 +68,38 @@ export default function Home() {
 
   return (
     <div>
+      <Helmet>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta
+          name="description"
+          content="A personal blog by Mayur Aitavadekar. Software Engineer & Musician."
+        />
+        <meta
+          name="robots"
+          content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+        />
+        <link rel="canonical" href="https://mayuraitavadekar.com" />
+        <meta property="og:locale" content="en_US" />
+        <meta property="og:type" content="website" />
+        <meta
+          property="og:title"
+          content="Mayur Aitavadekar - A personal blog."
+        />
+        <meta
+          property="og:description"
+          content="A personal blog by Mayur Aitavadekar. Software Engineer & Musician."
+        />
+        <meta property="og:url" content="https://mayuraitavadekar.com" />
+        <meta property="og:site_name" content="Mayur Aitavadekar" />
+        <meta property="og:image" content="yourimage.jpg" />
+        <meta
+          property="og:image:secure_url"
+          content="./assets/images/dp.jpeg"
+        />
+        <meta property="og:image:width" content="1280" />
+        <meta property="og:image:height" content="720" />
+      </Helmet>
+
       <Container fluid className="main-container">
         <Container fluid className="main-header">
           <Row>

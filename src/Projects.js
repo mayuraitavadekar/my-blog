@@ -286,11 +286,11 @@ const Projects = () => {
           <Row className="mt-4">
             <Col>
               &bull;{" "}
-              <a href="https://github.com/mayuraitavadekar/react-native-currency-converter">
+              <a href="https://github.com/mayuraitavadekar/full-stack-ecommerce-website">
                 Full stack E-commerce Website
               </a>
             </Col>
-            <Col>Super simple Currency Convertor App.</Col>
+            <Col>E-Com web app built using React, Express, Mongo. </Col>
           </Row>
           <Row className="mt-4">
             <Col>

@@ -115,7 +115,7 @@ const About = () => {
                 was good at studies and consistently scored good grades each
                 year. But I was also interested in music, painting, and sports.
                 I started learning harmonium at the age of 12. Today, I play
-                both piano and harmonium, anfd sing. I scored 'A' in elementary
+                both piano and harmonium, and sing. I scored 'A' in elementary
                 grade examination and 'B' on Intermediate. I was among the top
                 scorers in mathematics, when I was in school and Engineering.
                 <br />
@@ -130,12 +130,12 @@ const About = () => {
                 languages are C++ and JavaScript.
                 <br />
                 <br />
-                I like to learn about how computer hardware works. 'Structured
-                Computer Organisation' by Andrew Tanenbaum is my favorite book
-                for computer hardware. But I like to work on software. I develop
-                websites, apps. NodeJs is my speciality. Hot topics such as data
+                Since last 3 years, I have been trying my best to understand how
+                'structured computer organisation' works. But I like to work on
+                software. I develop websites, apps. Hot topics such as data
                 science, machine learning, and artificial intelligence
-                fascinates me but I have not taken deep dive into them.
+                fascinates me but I have not taken deep dive into them. I hope,
+                I'll start learning.
                 <br />
                 <br />
                 Whenever I get free time, I try to read. I'm deeply intrigued by
