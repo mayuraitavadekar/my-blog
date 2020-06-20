@@ -161,7 +161,17 @@ const About = () => {
                 stuff. So yes, I'm busy.
                 <br />
                 <br />
-                If you want to get connected with me, find me on{" "}
+                Though I built this blog from scratch, the design of this blog
+                is inspired by lot of websites and some them are worth
+                mentioning here -{" "}
+                <a href="https://overreacted.io/">overreacted.io</a> by Dan
+                Abromov,{" "}
+                <a href="https://www.taniarascia.com/">taniarascia.com</a> by
+                Tania Rascia and{" "}
+                <a href="http://seanhalpin.io/">seanhalpin.io</a>.
+                <br />
+                <br />
+                Lastly, If you want to get connected with me, find me on{" "}
                 <a href="https://www.instagram.com/mayuradz/">
                   Instagram
                 </a> and{" "}
