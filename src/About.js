@@ -123,20 +123,18 @@ const About = () => {
                 At the age of 18, I took admission to Engineering and I started
                 doing programming. Until then I didn't know what is programming
                 and how a computer works. The first language I learned was 'C'
-                and it was a terrible experience. Number of errors in my code
-                were double that of number of lines in the code. Eventually, I
-                learned C, C++, Java, Python, and JavaScript, and Dart(a little
-                bit). But I have to admit that my two most favorite programming
-                languages are C++ and JavaScript.
+                and it was a terrible experience. Eventually, I learned C, C++,
+                Java, Python, and JavaScript, and Dart(a little bit). But I have
+                to admit that my two most favorite programming languages are C++
+                and JavaScript.
                 <br />
                 <br />
                 Since last 3 years, I have been trying my best to understand how
                 'structured computer organisation' works. But I like to work on
-                software. I develop websites, apps. Hot topics such as data
-                science, machine learning, and artificial intelligence
-                fascinates me but I have not taken deep dive into them. I hope,
-                I'll start learning.
-                <br />
+                software. I develop websites, apps. Hot topics such machine
+                learning, and artificial intelligence fascinates me but I have
+                not taken deep dive into them. UI before AI that's what I am
+                currently following. But I like data science.
                 <br />
                 Whenever I get free time, I try to read. I'm deeply intrigued by
                 areas such as Indian mythology, history, space. I mostly read in
