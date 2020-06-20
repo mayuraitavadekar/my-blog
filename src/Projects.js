@@ -204,8 +204,8 @@ const Projects = () => {
                 variant="warning"
                 className="mt-1 progressbar"
                 animated
-                now={60}
-                label={`6/10`}
+                now={70}
+                label={`7/10`}
               />
             </Col>
           </Row>
@@ -300,15 +300,6 @@ const Projects = () => {
               </a>
             </Col>
             <Col>Super simple Currency Convertor App.</Col>
-          </Row>
-          <Row className="mt-4">
-            <Col>
-              &bull;{" "}
-              <a href="https://github.com/mayuraitavadekar/full-stack-ecommerce-website">
-                Full stack E-commerce Website
-              </a>
-            </Col>
-            <Col>Currently under dev. Built using React, Express, MongoDB.</Col>
           </Row>
         </Container>
 
