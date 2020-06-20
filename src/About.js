@@ -141,7 +141,7 @@ const About = () => {
                 areas such as Indian mythology, history, space. I mostly read in
                 Marathi and English. I believe that, we can learn most important
                 life lessons from Indian mythology. Few books of Amish and Anand
-                Neelakantan are in my bucket list. Achyut Godble have written a
+                Neelakantan are in my bucket list. Achyut Godble has written
                 some amazing books. Indian history including some politics
                 fascinates me a lot.
                 <br />
