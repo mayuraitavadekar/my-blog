@@ -69,16 +69,16 @@ export default function Home() {
   return (
     <div>
       <Helmet>
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <meta
           name="description"
-          content="A personal blog by Mayur Aitavadekar. Software Engineer & Musician."
+          content="A personal blog by Mayur Aitavadekar. A software developer. I also make music."
         />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <meta
           name="robots"
           content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"
         />
-        <link rel="canonical" href="https://mayuraitavadekar.com" />
+        <link rel="canonical" href="https://www.mayuraitavadekar.com" />
         <meta property="og:locale" content="en_US" />
         <meta property="og:type" content="website" />
         <meta
@@ -87,9 +87,9 @@ export default function Home() {
         />
         <meta
           property="og:description"
-          content="A personal blog by Mayur Aitavadekar. Software Engineer & Musician."
+          content="A personal blog by Mayur Aitavadekar. A software developer. I also make music."
         />
-        <meta property="og:url" content="https://mayuraitavadekar.com" />
+        <meta property="og:url" content="https://www.mayuraitavadekar.com" />
         <meta property="og:site_name" content="Mayur Aitavadekar" />
         <meta property="og:image" content="yourimage.jpg" />
         <meta

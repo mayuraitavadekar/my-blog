@@ -94,8 +94,8 @@ const About = () => {
               spend my time in learning about computers & programming. I love to
               watch ⚽ and I'm huge fan of Liverpool FC 🔴. I'm musician 🎼. I
               learned to play harmonium when I was 12 YO & I play piano 🎹 too.
-              I'm deeply interested in Indian mythology, history 📜, mathematics
-              and space 🌌.
+              I'm deeply interested in Indian mythology, history 📜,
+              mathematics.
             </Col>
           </Row>
         </Container>
