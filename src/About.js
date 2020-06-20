@@ -136,6 +136,7 @@ const About = () => {
                 not taken deep dive into them. UI before AI that's what I am
                 currently following. But I like data science.
                 <br />
+                <br />
                 Whenever I get free time, I try to read. I'm deeply intrigued by
                 areas such as Indian mythology, history, space. I mostly read in
                 Marathi and English. I believe that, we can learn most important
