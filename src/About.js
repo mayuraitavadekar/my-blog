@@ -155,10 +155,10 @@ const About = () => {
                 <br />
                 <br />
                 Next, what do I do, now? I have finished my bachelor of
-                engineering degree in computer engineering. I got admit George
-                Mason University, California State University. Currently, I am
-                working on my own startup company and handling all technical
-                stuff. So yes, I'm busy.
+                engineering degree in computer engineering. I got admit from
+                George Mason University, California State University. Currently,
+                I am working on my own startup company and handling all
+                technical stuff. So yes, I'm busy.
                 <br />
                 <br />
                 Though I built this blog from scratch, the design of this blog
