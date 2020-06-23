@@ -149,9 +149,9 @@ const About = () => {
                 Football is something I started to love since my college days. I
                 love Liverpool FC. This club has given me a lot of beautiful
                 memories. Of course, when I get free time, I think about
-                football. Nothing can be as special singing 'You will never walk
-                alone' before the match. Let's see If I can go to Anfield before
-                2024.
+                football. Nothing can be as special as singing 'You will never
+                walk alone' before the match. Let's see If I can go to Anfield
+                before 2024.
                 <br />
                 <br />
                 Next, what do I do, now? I have finished my bachelor of
