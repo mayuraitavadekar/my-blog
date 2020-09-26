@@ -22,11 +22,11 @@ const Bio = () => {
             <br />
             Hi
             <span role="img" aria-label="">
-              👋
+              👋.
             </span>{" "}
-            Welcome to my personal blog. You can enjoy reading my latest
-            articles & thoughts here 🤗. Click <Link to="/about">here</Link> to
-            Know More.
+            This blog is personification of <Link to="/about">who I'm</Link>.{" "}
+            <br />
+            Views and opinions are mine.
           </p>
         </Col>
       </Row>

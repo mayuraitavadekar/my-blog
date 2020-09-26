@@ -71,7 +71,7 @@ export default function Home() {
       <Helmet>
         <meta
           name="description"
-          content="A personal blog by Mayur Aitavadekar. A software developer. I also make music."
+          content="A personal blog by Mayur Aitavadekar. A software engineer. I also make music."
         />
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <meta
