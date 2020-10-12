@@ -111,39 +111,34 @@ const About = () => {
                 </span>{" "}
                 <br />
                 <br />
-                Since my childhood, I have been intrigued by a lot of things. I
-                was good at studies and consistently scored good grades each
-                year. But I was also interested in music, painting, and sports.
-                I started learning harmonium at the age of 12. Today, I play
-                both piano and harmonium, and sing. I scored 'A' in elementary
-                grade examination and 'B' on Intermediate. I was among the top
-                scorers in mathematics, when I was in school and Engineering.
+                I have been intrigued by a lot of things. I was good at studies
+                and consistently scored good grades each year. But I was also
+                interested in music, painting, and sports. I started learning
+                harmonium at the age of 12. Today, I play both piano and
+                harmonium, and sing. I was among the top scorers in mathematics,
+                when I was in school and Engineering.
                 <br />
                 <br />
-                At the age of 18, I took admission to Engineering and I started
-                doing programming. Until then I didn't know what is programming
-                and how a computer works. The first language I learned was 'C'
-                and it was a terrible experience. Eventually, I learned C, C++,
-                Java, Python, and JavaScript, and Dart(a little bit). But I have
-                to admit that my two most favorite programming languages are C++
-                and JavaScript.
+                I started doing programming at 18. Until then I didn't know what
+                is programming and how a computer works. The first language I
+                learned was 'C' and it was a terrible experience. Eventually, I
+                learned C, C++, Java, Python, and JavaScript, and Dart(a little
+                bit). But I have to admit that my two most favorite programming
+                languages are C++ and JavaScript.
                 <br />
                 <br />
-                Since last 3 years, I have been trying my best to understand how
-                'structured computer organisation' works. But I like to work on
-                software. I develop websites, apps. Hot topics such machine
-                learning, and artificial intelligence fascinates me but I have
-                not taken deep dive into them. UI before AI that's what I am
-                currently following. But I like data science.
+                I have been trying my best to understand how 'structured
+                computer organisation' works. But I like to work on software. I
+                develop websites, apps. Hot topics such machine learning, and
+                artificial intelligence fascinates me but I have not taken deep
+                dive into them. UI before AI that's what I am currently
+                following.
                 <br />
                 <br />
                 Whenever I get free time, I try to read. I'm deeply intrigued by
                 areas such as Indian mythology, history, space. I mostly read in
                 Marathi and English. I believe that, we can learn most important
-                life lessons from Indian mythology. Few books of Amish and Anand
-                Neelakantan are in my bucket list. Achyut Godble has written
-                some amazing books. Indian history including some politics
-                fascinates me a lot.
+                life lessons from Indian mythology.
                 <br />
                 <br />
                 Football is something I started to love since my college days. I
