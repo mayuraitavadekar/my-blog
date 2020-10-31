@@ -104,8 +104,7 @@ const About = () => {
           <Row>
             <Col>
               <p>
-                Okay. Since you're interested in knowing more about me, you can
-                read here{" "}
+                Okay.  you can read more here{" "}
                 <span aria-label="" role="img">
                   👇
                 </span>{" "}
@@ -119,17 +118,14 @@ const About = () => {
                 when I was in school and Engineering.
                 <br />
                 <br />
-                I started doing programming at 18. Until then I didn't know what
-                is programming and how a computer works. The first language I
-                learned was 'C' and it was a terrible experience. Eventually, I
-                learned C, C++, Java, Python, and JavaScript, and Dart(a little
-                bit). But I have to admit that my two most favorite programming
+                The first language I learned was 'C' and it was a terrible experience. 
+                Eventually, I learned C, C++, Java, Python, and JavaScript, and Dart(a little
+                bit). I my two most favorite programming
                 languages are C++ and JavaScript.
                 <br />
                 <br />
-                I have been trying my best to understand how 'structured
-                computer organisation' works. But I like to work on software. I
-                develop websites, apps. Hot topics such machine learning, and
+                I like to work on softwares. I
+                develop websites, apps with JavaScript. Hot topics such machine learning, and
                 artificial intelligence fascinates me but I have not taken deep
                 dive into them. UI before AI that's what I am currently
                 following.
@@ -150,10 +146,8 @@ const About = () => {
                 <br />
                 <br />
                 Next, what do I do, now? I have finished my bachelor of
-                engineering degree in computer engineering. I got admit from
-                George Mason University, California State University. Currently,
-                I am working on my own startup company and handling all
-                technical stuff. So yes, I'm busy.
+                engineering degree in computer engineering. Currently,
+                I am working on my own startup and at InnoWise LLC. So yes, I'm busy.
                 <br />
                 <br />
                 Though I built this blog from scratch, the design of this blog
