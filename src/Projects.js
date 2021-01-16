@@ -139,7 +139,7 @@ const Projects = () => {
                 className="mt-1 progressbar"
                 animated
                 now={90}
-                label={`9/10`}
+                label={`7/10`}
               />
             </Col>
           </Row>
