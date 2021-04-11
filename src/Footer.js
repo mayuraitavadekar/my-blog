@@ -20,7 +20,9 @@ const Footer = () => {
         <hr />
         <Row>
           <Col className="text-center">
-            <p style={{ color: "lightgray" }}>© 2020-21 Mayur Aitavadekar</p>
+            <p style={{ color: "lightgray" }}>
+              © 2020-present Mayur Aitavadekar
+            </p>
           </Col>
         </Row>
       </Container>
