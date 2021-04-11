@@ -22,7 +22,7 @@ const ReadComponent = ({ match }) => {
 
   const readTimeFries = () => {
     if (Number(readtime) <= 6 && Number(readtime) > 0) return "🍟";
-    else if (Number(readTime) > 6 && Number(readtime) <= 15) return "🍟🍟";
+    else if (Number(readtime) > 6 && Number(readtime) <= 15) return "🍟🍟";
     else if (Number(readtime) > 15) return "🍟🍟🍟";
   };
 
