@@ -24,7 +24,7 @@ const Bio = () => {
             <span role="img" aria-label="">
               👋.
             </span>{" "}
-            This blog is personification of <Link to="/about">who I'm</Link>.{" "}
+            Hi! <Link to="/about">Click here'm</Link> to know more.
             <br />
             Views and opinions are mine.
           </p>
