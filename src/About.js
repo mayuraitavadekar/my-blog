@@ -100,19 +100,9 @@ const About = () => {
           <Row>
             <Col>
               <p>
-                I started doing programming at 18. The first language I learned
-                was 'C' and it was a terrible experience. Eventually, I learned
-                C, C++, Java, Python, and JavaScript, and Dart(a little bit).
-                But I have to admit that my two most languages are C++ and
-                JavaScript.
-                <br />
-                <br />
-                I have been trying my best to understand how 'structured
-                computer organisation' works. But I like to work on software. I
-                develop websites, apps. Hot topics such machine learning, and
-                artificial intelligence fascinates me but I have not taken deep
-                dive into them. UI before AI that's what I am currently
-                following.
+                I started doing programming at 18. I learned C, C++, Java,
+                Python, and JavaScript, and Dart(a little bit). I currently
+                write everything in Go/JavaScript/Java.
                 <br />
                 <br />
                 I read. I'm deeply intrigued by areas such as Indian mythology,
@@ -140,7 +130,7 @@ const About = () => {
                 <a href="http://seanhalpin.io/">seanhalpin.io</a>.
                 <br />
                 <br />
-                Lastly, If you want to get connected with me, find me on{" "}
+                Want to get connected with me, find me on{" "}
                 <a href="https://www.instagram.com/mayuradz/">
                   Instagram
                 </a> and{" "}
@@ -150,13 +140,7 @@ const About = () => {
                 or simply drop a mail. Check out my{" "}
                 <a href="https://medium.com/@mayur_aitavadekar"> Medium</a> to
                 read my tech articles. You can also visit
-                <a href="https://github.com/mayuraitavadekar">github</a>.
-                <br />
-                <br />
-                <br />
-                Mayur ❤️
-                <br />
-                15 June, 2020.
+                <a href="https://github.com/mayuraitavadekar"> Github</a>.
               </p>
             </Col>
           </Row>
