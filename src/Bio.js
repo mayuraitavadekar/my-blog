@@ -20,13 +20,12 @@ const Bio = () => {
               ReactJs ⚛️ &bull; Software Engineer &bull; Full Stack 🌏{" "}
             </span>
             <br />
-            Hi
+            Hi!
             <span role="img" aria-label="">
               👋.
             </span>{" "}
-            Hi! <Link to="/about">Click here'm</Link> to know more.
-            <br />
-            Views and opinions are mine.
+            <Link to="/about">Click here</Link> to know more. Views and opinions
+            are mine.
           </p>
         </Col>
       </Row>
