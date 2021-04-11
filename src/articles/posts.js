@@ -24,7 +24,7 @@ export const posts = [
   {
     number: "2",
     title: "Quick steps for Quicksort",
-    description: "small and clean notes on quick sort.",
+    description: "Small and clean notes on quick sort.",
     path: A2,
     tags: ["data-structures", "algorithms"],
     date: "25 September, 2020",
