@@ -41,6 +41,6 @@ export const posts = [
     description: "Sharing my experience in building Educulture server-side.",
     path: A2,
     tags: ["programming"],
-    date: "11 April, 2021",
+    date: "26 May, 2021",
   },
 ];
