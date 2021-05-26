@@ -89,9 +89,8 @@ const About = () => {
               <span className="font-weight-bold">TLDR:</span>
               <br />
               Hello 👋 Myself Mayur. I'm 23 YO 👨‍💼. I use Linux 🐧 on my PC 🖥️. I
-              love to watch ⚽ and I'm huge fan of Liverpool FC 🔴. I'm musician
-              🎼. I learned to play harmonium & piano 🎹. I'm deeply interested
-              in Indian mythology, history 📜, space.
+              love to watch ⚽ and I'm huge fan of Liverpool FC 🔴. I play
+              harmonium & piano 🎹. I'm deeply interested in history 📜, space.
             </Col>
           </Row>
         </Container>
@@ -115,9 +114,11 @@ const About = () => {
                 a lot of beautiful memories. Nothing can be as special as
                 singing 'You will never walk alone' before the match.
                 <br />
-                <br />
-                I work at InnoWise LLC as Associate Softwtare Engineer in
-                product team.
+                <br />I worked at InnoWise LLC as Associate Softwtare Engineer
+                in product team. I contributed to their InnoMeet software.
+                Currently, I work full time on{" "}
+                <a href="https://educulture.co.in">Educulture</a> as backend
+                Engineer.
                 <br />
                 <br />
                 Though I built this blog from scratch, the design of this blog
