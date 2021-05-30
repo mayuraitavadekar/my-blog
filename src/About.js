@@ -105,7 +105,7 @@ const About = () => {
                 <br />
                 <br />
                 I read. I'm deeply intrigued by areas such as Indian mythology,
-                history, space. I believe that, we can learn most important life
+                history, space. I believe we can learn most important life
                 lessons from Indian mythology.
                 <br />
                 <br />
