@@ -29,7 +29,7 @@ export const posts = [
   // },
   {
     number: "1",
-    title: "3 years with JavaScript: What I learned?",
+    title: "2 years with JavaScript: What I learned?",
     description: "My personal experiences with the programming language.",
     path: A1,
     tags: ["programming, javascript"],
