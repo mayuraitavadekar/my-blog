@@ -1,0 +1,11 @@
+performance improvements on servers:
+
+- minimize requests as much as possible
+- compute as min as possible
+- cache as much as possible
+- reduce no of lines as much as possible
+- minimize database connections as much as possible (choose DB wisely. 99% times DB is bottleneck)
+- no joins, complex reduce DB operations
+- minimize response time (sends minimum data to client)
+- do not use external libraries, please.
+- done as much processing as you can on client side
