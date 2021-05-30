@@ -32,7 +32,7 @@ export const posts = [
     title: "2 years with JavaScript: What I learned?",
     description: "My personal experiences with the programming language.",
     path: A1,
-    tags: ["programming, javascript"],
+    tags: ["programming", "javascript"],
     date: "11 April, 2021",
   },
   {
@@ -40,7 +40,7 @@ export const posts = [
     title: "Which tech-stack do we use at Educulture?",
     description: "Sharing my experience in building Educulture server-side.",
     path: A2,
-    tags: ["business, startups, experiences"],
+    tags: ["business", "startups", "experiences"],
     date: "26 May, 2021",
   },
 ];
