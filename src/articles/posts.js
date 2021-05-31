@@ -4,7 +4,7 @@ export const readTime = async (path) => {
   const res = await fetch(path)
     .then((response) => response.text())
     .then((text) => {
-      return Math.ceil(text.length / 800).toString();
+      return Math.ceil(text.length / 900).toString();
     });
 
   return res;
