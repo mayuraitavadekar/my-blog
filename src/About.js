@@ -132,7 +132,7 @@ const About = () => {
                 <br />
                 <br />
                 I mostly write about my experiences in CS areas. But I can write on Music, Football, {" "}
-                and history when time permits. I look forward to share more musings, periodically.
+                and History when time permits. I look forward to share more musings, periodically.
               </p>
             </Col>
           </Row>
