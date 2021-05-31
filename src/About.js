@@ -131,17 +131,8 @@ const About = () => {
                 <a href="http://seanhalpin.io/">seanhalpin.io</a>.
                 <br />
                 <br />
-                Want to get connected with me, find me on{" "}
-                <a href="https://www.instagram.com/mayuradz/">
-                  Instagram
-                </a> and{" "}
-                <a href="https://www.linkedin.com/in/mayur-aitavadekar/">
-                  LinkedIn
-                </a>{" "}
-                or simply drop a mail. Check out my{" "}
-                <a href="https://medium.com/@mayur_aitavadekar"> Medium</a> to
-                read my tech articles. You can also visit
-                <a href="https://github.com/mayuraitavadekar"> Github</a>.
+                I mostly write about my experiences in CS areas. But I can write on Music, Football, {" "}
+                and history when time permits. I look forward to share more musings, periodically.
               </p>
             </Col>
           </Row>
