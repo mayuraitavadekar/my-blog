@@ -176,7 +176,7 @@ const ReadComponent = ({ match }) => {
                 </Badge>
               );
             })}
-            &nbsp;&bull;{readTimeFries()} {readtime} mins read-time
+            &nbsp;&bull;{readTimeFries()} {readtime} mins read
           </p>
         </Container>
 
