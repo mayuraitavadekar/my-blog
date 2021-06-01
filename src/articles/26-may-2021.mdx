@@ -38,26 +38,29 @@ We needed a language which:
       Go is faster than Java on every benchmark. It is extremely fast. It does not rely on virtual machine to compile code, 
       the Go code directly gets converted into binary. Java uses more memory than Go.
     
-  2. has faster compile time
-    &nbsp; - Go has faster compile time than C++. We do not notice it while writing small programs, but when our systems become essentially big it takes lot more     time to compile c++ code. Since your code needs to be compiled before it's run and compiled again after every change you make, compile-time matters for coding
-    speed.
+  2. <b>has faster compile time:</b>
+      
+      Go has faster compile time than C++. We do not notice it while writing small programs, but when our systems become essentially big it takes lot more               time to compile c++ code. Since your code needs to be compiled before it's run and compiled again after every change you make, compile-time matters for           coding speed.
     
-  3. is statically typed (easy to debug errors)
-    &nbsp; -I have been into JS world for quite while now. dynamic languages (JavaScript, Python) makes debugging hard. It takes small time to develop softwares       in dynamic languages, but it is really hard to debug the errors. So eventually it is hard to maintain the system. Java, C++ and Go are superior at this. 
-    Go is greatly type safe with variety of data types.  
+  3. <b>is statically typed (easy to debug errors):<b/>
+      
+      I have been into JS world for quite while now. dynamic languages (JavaScript, Python) makes debugging hard. It takes small time to develop softwares               in dynamic languages, but it is really hard to debug the errors. So eventually it is hard to maintain the system. Java, C++ and Go are superior at this. 
+      Go is greatly type safe with variety of data types.  
   
-  4. has great standard library
-    &nbsp; - In JavaScript world, everything is OSS. Though node.js standard library has few good functions, it does not cover everything a programmer on server       side. You have to reply on third party applications. This is dangerous when you are running your software on production level where few hundread/thousand         people using it. As soon as anything in that third party library changes, you have to update it in your software and it might break your functionality.     
-    &nbsp; -No doubt Go has extremely well standard library. It has everything you need to develop a server. It was no brainer for us to choose Go when we found       out that we need not rely on third party modules.
+  4. <b>has great standard library:<b/>
+    
+      In JavaScript world, everything is OSS. Though node.js standard library has few good functions, it does not cover everything a programmer on server               side. You have to reply on third party applications. This is dangerous when you are running your software on production level where few hundread/thousand         people using it. As soon as anything in that third party library changes, you have to update it in your software and it might break your functionality.     
+      
+      No doubt Go has extremely well standard library. It has everything you need to develop a server. It was no brainer for us to choose Go when we found               out that we need not rely on third party modules.
     
   
-  5. works great with MySQL.
-    &nbsp; - 90% of time, DB is bottleneck. DB drivers is bottleneck. If they are slow, your system is slow. While MongoDB was great, this time we wanted to use
-    self managed MySQL server on our own VPS. We needed something like mongoose.js in Go, and that's Go SQL driver. It works like a charm. The type safe structs       in Go language are well suitaed with MySQL which additionally makes it easy to maintain the application. That's one more reason 
-    to choose Go.
+  5. <b>works great with MySQL:<b/>
+      
+      90% of time, DB is bottleneck. DB drivers is bottleneck. If they are slow, your system is slow. While MongoDB was great, this time we wanted to use
+      self managed MySQL server on our own VPS. We needed something like mongoose.js in Go, and that's Go SQL driver. It works like a charm. The type safe structs       in Go language are well suitaed with MySQL which additionally makes it easy to maintain the application. That's one more reason to choose Go.
 
   
-Go seems very much underrated to me. It was perfect for us. We rewrote all of our services in Go. We moved our database from MongoDB to MySQL. We use
+Go seems very much underrated to me. It was perfect for us. It is language which was designed by keeping serverside in mind, We rewrote all of our services in Go. We moved our database from MongoDB to MySQL. We use
 self managed MySQL server.
 
 <br />
