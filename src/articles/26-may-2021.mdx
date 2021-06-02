@@ -29,7 +29,7 @@ reach to maximum users. But we will gradually switch our client stack.
 All of our performance critical, high throughput services are written in Go. We have not
 received a single problem till date.
 
-We first wrote our backend in Node.js with MongoDB. While it was extremely efficient in IO operations,
+We first wrote our backend in Node.js with MongoDB. While it was extremely efficient on IO operations,
 there are some services which do lot of computations and called by client almost every minute. So it was
 not memory efficient. So, We gave up on Node.js.
 
