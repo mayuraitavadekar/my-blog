@@ -3,6 +3,9 @@ on which steps we went through while building a MVP which needs to be efficient 
 
 <br />
 
+We constantly tried lot of things, especially on server-side. It is really difficult to choose what to use. You must try different things and check whether it
+suits your need or not. In almost every software, choosing right trade off is extremely important skill and I have learned it the hard day. Let's begin.
+
 #### <u>Client</u>
 
 <br />
@@ -22,7 +25,7 @@ reach to maximum users. But we will gradually switch our client stack.
 <br />
 
 All of our performance critical, high throughput services are written in Go. We have not
-received any problems till date.
+received single problem till date.
 
 We first wrote our backend in Node.js with MongoDB. While it was extremely efficient in IO operations,
 there are some services which do lot of computations and called by client almost every minute. So it was
@@ -65,7 +68,7 @@ We needed a language which:
 
 <br/>
   
-Go seems very much underrated to me. It was perfect for us. It is language which was designed by keeping serverside in mind.
+Go seems to be very much underrated to me. It was perfect for us. It is language which was designed by keeping server-side in mind.
 
 <br />
 
