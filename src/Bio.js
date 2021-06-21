@@ -19,11 +19,11 @@ const Bio = () => {
             <span role="img" aria-label="">
               M.S. in Computer Science at GAState &bull; Co Founder <a href="https://educulture.co.in">Educulture</a> {" "}
             </span>
-            <br />
-            Hi!
-            <span role="img" aria-label="">
-              👋.
-            </span>{" "}
+//             <br />
+//             Hi!
+//             <span role="img" aria-label="">
+//               👋.
+//             </span>{" "}
             <Link to="/about">Click here</Link> to know more. Views and opinions
             are mine.
           </p>
