@@ -84,7 +84,7 @@ const About = () => {
         </Container>
         <hr />
         <Container className="short-intro">
-          <Row>
+          <Row style={{textAlign: "justify">
             <Col>
               <span className="font-weight-bold">TLDR:</span>
               <br />
@@ -96,7 +96,7 @@ const About = () => {
         </Container>
         <p className="dots">&#9679; &#9679; &#9679;</p>
         <Container className="long-intro">
-          <Row>
+          <Row style={{textAlign: "justify">
             <Col>
               <p>
                 I started doing programming at 18. I learned C, C++, Java, Python, JavaScript, and Dart(a little bit). 
