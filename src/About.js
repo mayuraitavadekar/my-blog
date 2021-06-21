@@ -99,40 +99,28 @@ const About = () => {
           <Row>
             <Col>
               <p>
-                I started doing programming at 18. I learned C, C++, Java,
-                Python, and JavaScript, and Dart(a little bit). I currently
-                write everything in Go/JavaScript/Java.
+                I started doing programming at 18. I learned C, C++, Java, Python, JavaScript, and Dart(a little bit). 
+                I currently write everything in Go/JavaScript/Java.
                 <br />
                 <br />
-                I read. I'm deeply intrigued by areas such as Indian mythology,
-                history, space. I tried to read about all of these as much as possible.
+                I read. I'm deeply intrigued by areas such as Indian mythology, history, space. 
+                So I try to read about all of these as much as possible.
                 <br />
                 <br />
-                I started watching Football since college days.{" "}
-                If you are Liverpool Fan, we're friends. This club has given me
-                a lot of beautiful memories. Nothing can be as special as
-                singing 'You will never walk alone' before the match.
-                <br />
-                <br />I worked at InnoWise LLC as Associate Softwtare Engineer
-                in product team. I contributed to their InnoMeet software.
-                Currently, I work full time on{" "}
-                <a href="https://educulture.co.in">Educulture</a> as backend
-                Engineer.
+                I started watching football since college days. If you are Liverpool Fan, we're friends. 
+                This club has given me a lot of beautiful memories. Nothing can be as unique as singing 'You will never walk alone' before the match.
                 <br />
                 <br />
-                Though I built this blog from scratch, the design of this blog
-                is inspired by lot of websites and some them are worth
-                mentioning here -{" "}
-                <a href="https://overreacted.io/">overreacted.io</a> by Dan
-                Abromov,{" "}
-                <a href="https://www.taniarascia.com/">taniarascia.com</a> by
-                Tania Rascia and{" "}
-                <a href="http://seanhalpin.io/">seanhalpin.io</a>.
+                I worked at InnoWise LLC as Associate Software Engineer in the product team. 
+                In addition, I contributed to their InnoMeet software. Currently, I work full-time on Educulture as a Backend Engineer.
                 <br />
                 <br />
-                I mostly write about my experiences in CS areas. But I can write on Music, Football, {" "}
-                and History when time permits. I look forward to share more musings, periodically.
-                
+                Though I built this blog from scratch, this blog's design is inspired by many websites, 
+                and some of them are worth mentioning here - overreacted.io by Dan Abramov, taniarascia.com by Tania Rascia, and seanhalpin.io.
+                <br />
+                <br />
+                I mostly write about my experiences in CS areas. But I can write on Music, Football, and History when time permits. 
+                I look forward to sharing more musings periodically.
                 <br/>
                 <br/>
                 <i>30th May 2021: last updated.</i>
