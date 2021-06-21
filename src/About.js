@@ -132,6 +132,10 @@ const About = () => {
                 <br />
                 I mostly write about my experiences in CS areas. But I can write on Music, Football, {" "}
                 and History when time permits. I look forward to share more musings, periodically.
+                
+                <br/>
+                
+                <i>30th May 2021: last updated.</i>
               </p>
             </Col>
           </Row>
