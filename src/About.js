@@ -105,11 +105,10 @@ const About = () => {
                 <br />
                 <br />
                 I read. I'm deeply intrigued by areas such as Indian mythology,
-                history, space. I believe we can learn most important life
-                lessons from Indian mythology.
+                history, space. I tried to read about all of these as much as possible.
                 <br />
                 <br />
-                Football is something I started to love since my college days.
+                I started watching Football since college days.{" "}
                 If you are Liverpool Fan, we're friends. This club has given me
                 a lot of beautiful memories. Nothing can be as special as
                 singing 'You will never walk alone' before the match.
