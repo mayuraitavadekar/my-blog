@@ -17,7 +17,7 @@ const Bio = () => {
         <Col xs={9} md={9} lg={9} className="main-bio mt-2">
           <p>
             <span role="img" aria-label="">
-              ReactJs ⚛️ &bull; Software Engineer &bull; Full Stack 🌏{" "}
+              M.S. in Computer Science at GAState &bull; Co Founder <a href="https://educulture.co.in">Educulture</a> {" "}
             </span>
             <br />
             Hi!
