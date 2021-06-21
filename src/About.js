@@ -134,7 +134,7 @@ const About = () => {
                 and History when time permits. I look forward to share more musings, periodically.
                 
                 <br/>
-                
+                <br/>
                 <i>30th May 2021: last updated.</i>
               </p>
             </Col>
