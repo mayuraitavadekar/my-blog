@@ -182,7 +182,7 @@ const ReadComponent = ({ match }) => {
 
         <Container
           fluid
-          style={{ marginTop: 30, marginBottom: 100, textAlign: "justify"}}
+          style={{ marginTop: 30, marginBottom: 100}}
           className="mdx"
         >
           <ReactMarkdown className="mk" source={postMDX} escapeHtml={false} />
