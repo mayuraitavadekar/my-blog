@@ -18,7 +18,7 @@ const Bio = () => {
           <p style={{textAlign: "justify"}}>
             <span role="img" aria-label="">
               M.S. in Computer Science at GAState &bull; Co Founder <a href="https://educulture.co.in">Educulture</a> &bull; {" "}
-              <Link to="/about">Click here</Link> to know more. Views and opinions are mine.
+              <Link to="/about">Click here</Link> to know more. Opinions are my own.
             </span>  
           </p>
         </Col>
