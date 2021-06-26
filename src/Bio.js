@@ -17,7 +17,7 @@ const Bio = () => {
         <Col xs={9} md={9} lg={9} className="main-bio mt-2">
           <p style={{textAlign: "justify"}}>
             <span role="img" aria-label="">
-              M.S. in Computer Science at GAState &bull; Building <a href="https://educulture.co.in">Educulture</a> &bull; {" "}
+              M.S. in Computer Science at GAState &bull; Building <a href="https://educulture.co.in">Educulture</a> in free time &bull; {" "}
               <Link to="/about">Click here</Link> to know more. Opinions are my own.
             </span>  
           </p>
