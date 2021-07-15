@@ -115,10 +115,6 @@ const About = () => {
                 In addition, I contributed to their InnoMeet software. Currently, I work full-time on Educulture as a Backend Engineer.
                 <br />
                 <br />
-                Though I built this blog from scratch, this blog's design is inspired by many websites, 
-                and some of them are worth mentioning here - overreacted.io by Dan Abramov, taniarascia.com by Tania Rascia, and seanhalpin.io.
-                <br />
-                <br />
                 I mostly write about my experiences in CS areas. But I can write on Music, Football, and History when time permits. 
                 I look forward to sharing more musings periodically.
                 <br/>
